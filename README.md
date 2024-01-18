@@ -83,7 +83,7 @@ DELETE /tambola/delete-all-tickets
 - Deletes all Tambola tickets.
 
 ## working Video url 
-🔗 [url](https://example.com)
+🔗 [url](https://drive.google.com/file/d/157kB4FmQvphXSxAgu5qxhdYdexHla6BN/view)
 
 # Thank You !
 by...
